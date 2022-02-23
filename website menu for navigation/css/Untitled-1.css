@@ -1,0 +1,33 @@
+
+
+body {
+    background-color: rgb(111, 175, 161);
+    
+}
+
+p {
+
+    color: rgb(0, 83, 21);
+    position: static;
+
+    
+    
+  }
+
+
+  h1 {
+
+      color: rgb(0, 83, 21); 
+      text-align: center;
+      display: inline-flexbox;
+      background-color: rgb(192, 192, 192);
+      padding: 100px;
+      text-decoration: white;
+  }
+
+  h2 {
+      color: rgb(6, 70, 22);
+      text-align: center;
+      padding: 50px;
+  
+  }
